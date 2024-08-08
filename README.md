@@ -47,7 +47,14 @@ I'm a software enthusiast with a love for problem-solving and creative projects.
 </p>
 
 ## Achievements
-.
+NPTEL Certificate(IOT)
+
+ Cisco Networking Academy Certificate for Network Essentials
+
+In-Plant Training Certificate (Bootstrap) 
+
+In-Plant Training Certificate (Cyber Security ) 
+
 
 ## Contact
 
