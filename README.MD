@@ -19,7 +19,7 @@ I'm a software enthusiast with a love for problem-solving and creative projects.
 </p>
 
 ## Github Stats
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Muguntha12&theme=vision-friendly-dark&hide_border=false" alt="Muguntha12" />.
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Janarthanavelba&theme=vision-friendly-dark&hide_border=false" alt="Janarthanavelba" />.
 
 ### Other Skills
 
